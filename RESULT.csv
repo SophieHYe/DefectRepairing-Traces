@@ -24,10 +24,10 @@ patch1-Math-30-3sfix,Math,30,Incorrect
 patch2-Math-82-3sfix,Math,82,Correct
 patch17-Math-85-3sfix,Math,85,Incorrect
 patch16-Math-85-3sfix,Math,85,Incorrect
-patch3-Chart-1-3sfix,Chart,1,Correct
-patch4-Chart-1-3sfix,Chart,1,Correct
-patch1-Chart-1-3sfix,Chart,1,Correct
-patch2-Chart-1-3sfix,Chart,1,Correct
 patch1-Lang-59-3sfix,Lang,59,Correct
 patch1-Lang-6-3sfix,Lang,6,Incorrect
 patch2-Lang-6-3sfix,Lang,6,Incorrect
+patch3-Chart-1-3sfix,Chart,1,Incorrect
+patch4-Chart-1-3sfix,Chart,1,Incorrect
+patch1-Chart-1-3sfix,Chart,1,Incorrect
+patch2-Chart-1-3sfix,Chart,1,Incorrect
